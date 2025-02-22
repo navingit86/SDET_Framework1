@@ -1,0 +1,56 @@
+01:19:47.902 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+01:19:48.654 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+01:19:48.795 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+01:19:49.253 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+01:19:49.256 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Adding Customer details for Registration..
+01:19:49.470 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+01:19:49.473 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Adding Customer details for Registration..
+01:19:52.077 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating the registration completion message..
+01:19:52.129 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+01:19:52.146 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating the registration completion message..
+01:19:52.301 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+01:19:54.558 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+01:19:55.252 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+01:19:55.394 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+01:19:55.394 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Adding Customer details for Registration..
+01:19:56.926 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating the registration completion message..
+01:19:56.960 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+01:50:04.609 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+01:50:05.317 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+01:50:05.870 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+01:50:05.873 [main] INFO  testCases.TC001_AccountRegistrationTest - Adding Customer details for Registration..
+01:50:07.872 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the registration completion message..
+01:50:07.909 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+21:22:12.281 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+21:22:12.831 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium-Workspace2\SDET_Framework1\master.xml
+
+21:23:15.196 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+21:23:15.493 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium-Workspace2\SDET_Framework1\master.xml
+
+21:23:44.124 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+21:23:44.452 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium-Workspace2\SDET_Framework1\master.xml
+
+21:23:51.287 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+21:23:52.030 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+21:23:52.497 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+21:23:52.500 [main] INFO  testCases.TC001_AccountRegistrationTest - Adding Customer details for Registration..
+21:23:54.610 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the registration completion message..
+21:23:54.658 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+21:24:28.141 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+21:24:28.373 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium-Workspace2\SDET_Framework1\master.xml
+
+21:24:31.792 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+22:45:28.241 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+22:45:29.336 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium-Workspace2\SDET_Framework1\master.xml
+
+22:45:33.926 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+22:46:49.373 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+22:46:49.913 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium-Workspace2\SDET_Framework1\master.xml
+
+22:46:55.864 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****

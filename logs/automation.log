@@ -1,0 +1,44 @@
+01:01:37.641 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+01:01:38.083 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+01:01:38.085 [main] INFO  testCases.TC001_AccountRegistrationTest - Adding Customer details for Registration..
+01:01:40.189 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the registration completion message..
+01:01:40.254 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+01:01:47.288 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:01:48.396 [main] INFO  testCases.TC002_LoginTest - ***** Adding Login page  details *****
+01:01:53.487 [main] INFO  testCases.TC002_LoginTest - ***** My Account page Validations *****
+01:01:53.557 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+16:09:21.848 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+16:10:51.940 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+16:11:26.674 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+16:11:33.222 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+16:11:33.961 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+16:11:34.378 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+16:11:34.382 [main] INFO  testCases.TC001_AccountRegistrationTest - Adding Customer details for Registration..
+16:11:36.174 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the registration completion message..
+16:11:36.216 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+16:11:38.859 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:11:39.832 [main] INFO  testCases.TC002_LoginTest - ***** Adding Login page  details *****
+16:11:43.086 [main] INFO  testCases.TC002_LoginTest - ***** My Account page Validations *****
+16:11:43.123 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+17:51:02.448 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+17:51:08.125 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+17:51:08.847 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+17:51:09.294 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+17:51:09.297 [main] INFO  testCases.TC001_AccountRegistrationTest - Adding Customer details for Registration..
+17:51:11.120 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the registration completion message..
+17:51:11.164 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+17:51:13.819 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+17:51:14.801 [main] INFO  testCases.TC002_LoginTest - ***** Adding Login page  details *****
+17:51:18.043 [main] INFO  testCases.TC002_LoginTest - ***** My Account page Validations *****
+17:51:18.077 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+18:17:10.047 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium-Workspace2\SDET_Framework1\master.xml"
+18:17:15.042 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+18:17:15.765 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+18:17:16.283 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+18:17:16.285 [main] INFO  testCases.TC001_AccountRegistrationTest - Adding Customer details for Registration..
+18:17:18.052 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the registration completion message..
+18:17:18.095 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+18:17:20.639 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:17:21.656 [main] INFO  testCases.TC002_LoginTest - ***** Adding Login page  details *****
+18:17:24.916 [main] INFO  testCases.TC002_LoginTest - ***** My Account page Validations *****
+18:17:24.975 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
